@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Bienvenido al curso de Git</h1>
+	<h1>Mas Información</h1>
 </body>
 </html>
